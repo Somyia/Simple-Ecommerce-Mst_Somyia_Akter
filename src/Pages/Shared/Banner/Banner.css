@@ -1,0 +1,8 @@
+.banner-area{
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.842);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

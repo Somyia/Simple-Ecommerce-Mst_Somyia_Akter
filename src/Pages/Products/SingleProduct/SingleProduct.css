@@ -1,0 +1,55 @@
+.card{
+    height: 525px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.card-img-top{
+height: 200px;
+width: 200px;
+margin: auto;
+}
+.h5.card-title{
+    font-weight: 600;
+}
+.card-text {
+    color: rgb(145, 143, 143);
+}
+.widget-svg .star{
+    fill: rgb(231, 231, 7)!important;
+}
+.card-text h6{
+    color: #000;
+    margin: 15px 0;
+    
+}
+.card-text h5, .product-detail h5{
+    font-weight: 600;
+    color: #000;
+    margin: 15px 0;
+}
+.my-btn{
+    background-color: rgb(27, 27, 27);
+    border: 1px solid transparent;
+    transition: .3s;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.my-btn:hover{
+    background-color: transparent;
+    color:  rgb(27, 27, 27);
+    border: 1px solid  rgb(27, 27, 27);
+    font-weight: 600;
+}
+
+.card-btn{
+    background-color: transparent;
+    color:  rgb(27, 27, 27);
+    border: 1px solid  rgb(27, 27, 27);
+    font-weight: 600;
+    transition: .3s;
+}
+.card-btn:hover{
+    background-color: rgb(27, 27, 27);
+    border: 1px solid transparent;
+    font-weight: 600;
+}
